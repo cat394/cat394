@@ -48,6 +48,5 @@
 ###
 
 <div align="center">
-  <img src="https://media.tenor.com/bHdpUU6H2_cAAAAi/new.gif" width="120" height="97" />
-  <img src="https://i.imgflip.com/65efzo.gif" alt="やっぱメガネは可愛い" width="120" height="120" />
+  <img src="https://media.tenor.com/QO3Vp3DsZroAAAAC/hug.gif" width="150" height="150" />
 </div>
