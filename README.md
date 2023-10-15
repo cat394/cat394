@@ -48,5 +48,5 @@
 ###
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="やっぱメガネは可愛い" />
+  <img src="https://i.imgflip.com/65efzo.gif" alt="やっぱメガネは可愛い" width="30" height="30" />
 </div>
