@@ -48,5 +48,9 @@
 ###
 
 <div align="center">
-  <img src="https://media.tenor.com/QO3Vp3DsZroAAAAC/hug.gif" width="150" height="150" />
+  <img src="https://media.tenor.com/QO3Vp3DsZroAAAAC/hug.gif" width="170" height="170" />
+</div>
+
+<div align="left">
+  <img src="https://media.tenor.com/buF2dEcOemQAAAAC/anime-happy.gif" width="170" height="226" />
 </div>
