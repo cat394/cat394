@@ -48,6 +48,6 @@
 ###
 
 <div align="center">
-  <img src="https://tenor.com/ja/view/new-gif-7815831476255579127" width="120" height="120" />
+  <img src="https://media.tenor.com/bHdpUU6H2_cAAAAi/new.gif" width="120" height="120" />
   <img src="https://i.imgflip.com/65efzo.gif" alt="やっぱメガネは可愛い" width="120" height="120" />
 </div>
