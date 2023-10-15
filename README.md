@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ryo.<br>I love creating websites. SvelteKit is my most favorite tech.<br>My favorite styling method is pure-css(using open-props), Tailwind.</p>
+<p align="left">My name is Ryo.<br>I love creating websites. **SvelteKit** is my most favorite tech.<br>My favorite styling method is pure-css(using open-props), Tailwind.</p>
 
 ###
 
@@ -11,6 +11,13 @@
 ###
 
 <p align="left">✨ Creating bugs since maybe...2022/10 ~?<br>📚 I'm currently learning SQL and drizzle-orm.<br>🎯 Goals: SvelteKit Full stuck engineer!!!</p>
+
+👇These websites is made by me.
+
+- [My portfolio]("https://ryo-webdev.vercel.app")
+- [Vell mo]("https://vellmo.netlify.app")
+- [待ち人]("https://machibito.app")
+- [Kokomi's travel diary]("https://kokomi-travel-diary.vercel.app")
 
 ###
 
@@ -37,3 +44,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" alt="やっぱメガネは可愛い" />
+</div>
