@@ -12,7 +12,7 @@
 
 <p align="left">✨ Creating bugs since maybe...2022/10 ~?<br>📚 I'm currently learning SQL and drizzle-orm.<br>🎯 Goals: SvelteKit Full stuck engineer!!!</p>
 
-👇These websites is made by me.
+👇These website is made by me.
 
 <ul>
   <li><a href="https://ryo-webdev.vercel.app">My portfolio</a></li>
