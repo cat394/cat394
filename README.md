@@ -48,6 +48,6 @@
 ###
 
 <div align="center">
-  <img src="https://imgflip.com/gif/4fq6gm.gif" alt="キャノン砲発射！" width="120" height="120" />
+  <img src="https://i.imgflip.com/gif/4fq6gm.gif" alt="キャノン砲発射！" width="120" height="120" />
   <img src="https://i.imgflip.com/65efzo.gif" alt="やっぱメガネは可愛い" width="120" height="120" />
 </div>
