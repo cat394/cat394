@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ryo.<br>I love creating websites. **SvelteKit** is my most favorite tech.<br>My favorite styling method is pure-css(using open-props), Tailwind.</p>
+<p align="left">My name is Ryo.<br>I love creating websites. <strong>SvelteKit</strong> is my most favorite tech.<br>My favorite styling method is pure-css(using open-props), Tailwind.</p>
 
 ###
 
@@ -14,10 +14,12 @@
 
 👇These websites is made by me.
 
-- [My portfolio]("https://ryo-webdev.vercel.app")
-- [Vell mo]("https://vellmo.netlify.app")
-- [待ち人]("https://machibito.app")
-- [Kokomi's travel diary]("https://kokomi-travel-diary.vercel.app")
+<ul>
+  <li><a href="https://ryo-webdev.vercel.app">My portfolio</a></li>
+  <li><a href="https://vellmo.netlify.app">Vell mo</a></li>
+  <li><a href="https://machibito.app">待ち人</a></li>
+  <li><a href="https://kokomi-travel-diary.vercel.app">Kokomi's travel diary</a></li>
+</ul>
 
 ###
 
