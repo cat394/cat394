@@ -48,6 +48,6 @@
 ###
 
 <div align="center">
-  <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:55.56%;position:relative;"><iframe width="360" height="200" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4fq6gm"></iframe></div><p><a href="https://imgflip.com/gif/4fq6gm">via Imgflip</a></p></div>
+  <img src="https://tenor.com/ja/view/new-gif-7815831476255579127" width="120" height="120" />
   <img src="https://i.imgflip.com/65efzo.gif" alt="やっぱメガネは可愛い" width="120" height="120" />
 </div>
