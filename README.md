@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ryo.<br>I love creating websites. <strong>SvelteKit</strong> is my most favorite tech.<br>My favorite styling method is pure-css(using open-props), Tailwind.</p>
+<p align="left">My name is Ryo.<br>I love creating websites. <strong>SvelteKit</strong> is my most favorite tech.<br>My favorite styling method is plain-css or Tailwind.</p>
 
 ###
 
