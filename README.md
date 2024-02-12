@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Ryo. I mainly like to do front-end development, all by myself. I spend most of my time with computers, except for sleeping. I don't have much experience in development, and there are many things I don't understand, but I value learning and practicing programming step by step every day.<br>Recently I learned Express.js on mdn and would like to build some hands-on project.</p>
+<p align="left">Hello, my name is Ryo.<br>I mainly like to do front-end development, all by myself. I spend most of my time with computers, except for sleeping. I don't have much experience in development, and there are many things I don't understand, but I value learning and practicing programming step by step every day.<br>Recently I learned Express.js on mdn and would like to build some hands-on project.</p>
 
 ###
 
