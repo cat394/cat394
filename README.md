@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Ryo. I mainly like to do front-end development, all by myself. I spend most of my time with computers, except for sleeping. I don't have much experience in development, and there are many things I don't understand, but I value learning and practicing programming step by step every day.</p>
+<p align="left">Hello, my name is Ryo. I mainly like to do front-end development, all by myself. I spend most of my time with computers, except for sleeping. I don't have much experience in development, and there are many things I don't understand, but I value learning and practicing programming step by step every day.<br>Recently I learned Express.js on mdn and would like to build some hands-on project.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since maybe...2022/10 ~?<br>📚 I'm currently learning SQL and drizzle-orm.<br>🎯 Goals: SvelteKit Full stuck engineer!!!</p>
+<p align="left">✨ Creating bugs since...2022/10<br>📚 I'm currently learning test framework.</p>
 
 👇These website is made by me.
 
