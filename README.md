@@ -1,8 +1,8 @@
-<h1 align="left">Hello World! 😎</h1>
+<h1 align="left">Welcome to my profile🥰</h1>
 
 ###
 
-<p align="left">My name is Ryo.<br>I love creating websites. <strong>SvelteKit</strong> is my most favorite tech.<br>My favorite styling method is plain-css or Tailwind.</p>
+<p align="left">Hello, my name is Ryo. I mainly like to do front-end development, all by myself. I spend most of my time with computers, except for sleeping. I don't have much experience in development, and there are many things I don't understand, but I value learning and practicing programming step by step every day.</p>
 
 ###
 
@@ -40,17 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://media.tenor.com/QO3Vp3DsZroAAAAC/hug.gif" width="170" height="170" />
-</div>
-
-<div align="left">
-  <img src="https://media.tenor.com/buF2dEcOemQAAAAC/anime-happy.gif" width="170" height="226" />
-</div>
