@@ -1,46 +1,40 @@
-<h1 align="left">Welcome to my profile🥰</h1>
+# Hi, I'm Ryo! 👋
 
-###
+## 🚀 About Me
 
-<p align="left">Hello, my name is Ryo.<br>I mainly like to do front-end development, all by myself.<br>I spend most of my time with computers, except for sleeping. I don't have much experience in development, and there are many things I don't understand, but I value learning and practicing programming step by step every day.<br>Recently I learned Express.js on mdn and would like to build some hands-on project.</p>
+Hello, My name is Ryo.
 
-###
+I love web and enjoy creating creative websites.
 
-<h2 align="left">About me</h2>
+I am a big fan of Typescript.
 
-###
+I like web components, especially the encapsulated styling with shadow DOM.
 
-<p align="left">✨ Creating bugs since...2022/10<br>📚 I'm currently learning test framework.</p>
+Recently, I created a small CSS framework based on web components. It is an interesting approach to inline styling, but I eventually realized that this project was a flop...
 
-👇These website is made by me.
+## 🎈Hobby
 
-<ul>
-  <li><a href="https://ryo-webdev.vercel.app">My portfolio</a></li>
-  <li><a href="https://vellmo.netlify.app">Vell mo</a></li>
-  <li><a href="https://machibito.app">待ち人</a></li>
-  <li><a href="https://kokomi-travel-diary.vercel.app">Kokomi's travel diary</a></li>
-</ul>
+I love anime.
 
-###
+List of my favorite anime:
 
-<h2 align="left">I code with</h2>
+- Steins; Gate
+- Violet Evergarden
+- Bakemonogatari (monogatari series)
+- ID：INVADED
 
-###
+...etc
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+If I start talking about anime, I'll end up with the world's longest readme file, so I won't go into detail here😜
 
-###
+## Learning
+
+I have recently focused on learning the backend and have finished MDN's Express.js tutorial. Database, authentication, RESTful, GraphQL, tRPC, gRPC, Docker...I quietly closed my computer😴
+
+## 🛠 Skills
+
+HTML, CSS, Javascript, TypeScript
+
+### Framework
+
+React, Svelte, Astro, Lit, Tailwind
