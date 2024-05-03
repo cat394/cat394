@@ -1,4 +1,4 @@
-<img src="https://twitter.com/htmllover1231/header_photo" width="1500" height="500" style="max-width=800px" alt="KokomiのXのヘッダー画像  " />
+<img src="https://pbs.twimg.com/profile_banners/1785131570019663872/1714448436/1500x500" width="1500" height="500" style="max-width=800px" alt="KokomiのXのヘッダー画像  " />
 
 # Hi, I'm Kokomi! 👋
 
