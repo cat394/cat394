@@ -1,20 +1,18 @@
-# Hi, I'm Ryo! 👋
+# Hi, I'm Kokomi! 👋
 
 ## 🚀 About Me
 
-Hello, My name is Ryo.
+Hello there! I’m Kokomi, a front-end enthusiast with a love for HTML, CSS, JavaScript, and TypeScript. Crafting websites using React, Svelte, and Astro is my forte, and I’ve recently ventured into the world of Web Components, developing a simple SPA router. My goal is to create fun, innovative projects that spark joy and curiosity. 🌟
 
-I love web and enjoy creating creative websites.
+Like embarking on a new adventure, writing code for me is about exploring uncharted territories and bringing creative ideas to life. I treasure calm moments in nature and unexpected discoveries in new places, much like finding elegant solutions in my coding journey. Just as I enjoy the tranquility of forests 🌲 and the mystery of hidden springs, I find peace and excitement in solving complex challenges and learning something new every day. 🧠
 
-I am a big fan of Typescript.
+Stay tuned as I share my technical journeys and occasional escapades into the natural world. Whether you’re here for the code or the stories of adventure, I hope you find something that resonates with you. 🌍
 
-I like web components, especially the encapsulated styling with shadow DOM.
-
-Recently, I created a small CSS framework based on web components. It is an interesting approach to inline styling, but I eventually realized that this project was a flop...
+Let’s embark on this journey together, and may each line of code and every path explored bring us closer to understanding the vast, beautiful world we live in. ✨
 
 ## 🎈Hobby
 
-I love anime.
+I love Japanese anime.
 
 List of my favorite anime:
 
@@ -24,8 +22,6 @@ List of my favorite anime:
 - ID：INVADED
 
 ...etc
-
-If I start talking about anime, I'll end up with the world's longest readme file, so I won't go into detail here😜
 
 ## Learning
 
