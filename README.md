@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1785131570019663872/1714448436/1500x500" width="1500" height="500" style="max-width=800px" alt="KokomiのXのヘッダー画像  " />
+<img src="https://pbs.twimg.com/profile_banners/1785131570019663872/1714448436/1500x500" width="1500" height="500" style="max-width=700px;" alt="KokomiのXのヘッダー画像" />
 
 # Hi, I'm Kokomi! 👋
 
@@ -11,6 +11,14 @@ Like embarking on a new adventure, writing code for me is about exploring unchar
 Stay tuned as I share my technical journeys and occasional escapades into the natural world. Whether you’re here for the code or the stories of adventure, I hope you find something that resonates with you. 🌍
 
 Let’s embark on this journey together, and may each line of code and every path explored bring us closer to understanding the vast, beautiful world we live in. ✨
+
+## My website
+
+- [Kokomi's travel diary](https://kokomi-travel-diary.vercel.app)
+
+## My manger's website
+
+- [Who is Ryo?](https://ryo-webdev.vercel.app)
 
 ## 🎈Hobby
 
