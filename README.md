@@ -1,3 +1,5 @@
+<img src="https://twitter.com/htmllover1231/header_photo" width="1500" height="500" style="max-width=800px" alt="KokomiのXのヘッダー画像  " />
+
 # Hi, I'm Kokomi! 👋
 
 ## 🚀 About Me
