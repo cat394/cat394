@@ -1,5 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1785131570019663872/1714448436/1500x500" width="1500" height="500" style="max-width=700px;" alt="KokomiのXのヘッダー画像" />
-
+![青い髪とピンクの目をした寝そべった姿の女の子が"ハロー、ハウアーユー？と言っている]("https://pbs.twimg.com/profile_banners/1785131570019663872/1714448436/1500x500"]
 # Hi, I'm Kokomi! 👋
 
 ## 🚀 About Me
