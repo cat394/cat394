@@ -93,7 +93,7 @@ Though they have some usability drawbacks, they’re based on web standards and 
 
 ## My Best Work: link-generator
 
-**link-generator** is a package that leverages TypeScript’s string literal type inference to **safely generate paths** in a fully type-safe way.
+[link-generator](https://github.com/cat394/link-generator) is a package that leverages TypeScript’s string literal type inference to **safely generate paths** in a fully type-safe way.
 
 - **Speed**: Extremely fast  
 - **Compatibility**: Works in both frontend and backend environments  
@@ -105,7 +105,7 @@ I truly love **TypeScript**...
 
 ## 一番の傑作: link-generator
 
-**link-generator** は、TypeScript の文字列リテラル型の型推論を利用して、**完全に型安全に**パスを生成するモジュールを提供するパッケージです。
+[link-generator](https://github.com/cat394/link-generator) は、TypeScript の文字列リテラル型の型推論を利用して、**完全に型安全に**パスを生成するモジュールを提供するパッケージです。
 
 - **生成速度**: 超高速  
 - **互換性**: フロントエンド・バックエンド問わず動作  
