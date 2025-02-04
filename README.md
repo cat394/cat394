@@ -1,5 +1,3 @@
-![青い髪とピンクの目をした寝そべった姿の女の子が「ハロー、ハウアーユー？」と呟いている](https://pbs.twimg.com/profile_banners/1785131570019663872/1714448436/1500x500)
-
 # Introduction（あいさつ）
 
 Hello, my name is Kokomi. I'm a huge fan of HTML, CSS, and JavaScript (TypeScript), and I absolutely love the web.
@@ -8,7 +6,7 @@ While I can handle backend development, I have a strong preference for frontend 
 
 ---
 
-こんにちは、私は Kokomi といいます。私は HTML, CSS, JavaScript(TypeScript)の大ファンであり、ウェブがとても好きです。
+こんにちは、私は **さのりょう** といいます。私は HTML, CSS, JavaScript(TypeScript)の大ファンであり、ウェブがとても好きです。
 
 バックエンドもできますが、フロントエンドがとても好きです。
 
@@ -53,17 +51,11 @@ Whether for websites or web apps, I find it the best choice.
 
 React や Vue も API は知っていますが、Svelte が最も私と相性がよいと感じました。
 
-- **React**  
-  コンポーネント内に CSS を記述できない面倒さがあります（Tailwindを使えば解決する場合がありますが、私はTailwind を好みません）。
-  
-- **Next.js**  
-  メジャーアップデートばかりするので・・・。
-  
-- **Vue**  
-  属性に情報を詰め込みすぎるあまり、個人的に読みづらいコードになると思います。また、Vue の Web フレームである **Nuxt** は無料の公式チュートリアルを公開していないため、学ぶ気になりませんでした。
+React はコンポーネント内に CSS を記述できない面倒さがあります（Tailwindを使えば解決する場合がありますが、私はTailwind を好みません）。Next.js はメジャーアップデートばかりするためあまり信用していません。
 
-そのため、ほとんどの Web サイトは **SvelteKit** で作られています。  
-ウェブサイトやウェブアプリを作る際にこれが最適だと感じています。
+Vue.js は属性に情報を詰め込みすぎるあまり、個人的に読みづらいコードになると思います。また、Vue の Web フレームである **Nuxt** は無料の公式チュートリアルを公開していないため、学ぶ気になりませんでした。
+
+そのため、ほとんどの Web サイトは **SvelteKit** で作られています。  SvelteKit はシンプルで分かりやすいドキュメント、美しい API とシンプルな構文、Remix のような複雑怪奇なディレクトリベースのルーティングがないことが非常に好印象です。また、Svelte グループが管理しているため、Svelte と緊密な統合を行えていることが愛用する所以です。
 
 ---
 
@@ -107,7 +99,7 @@ I truly love **TypeScript**...
 
 [link-generator](https://github.com/cat394/link-generator) は、TypeScript の文字列リテラル型の型推論を利用して、**完全に型安全に**パスを生成するモジュールを提供するパッケージです。
 
-- **生成速度**: 超高速  
+- **生成速度**: 超高速
 - **互換性**: フロントエンド・バックエンド問わず動作  
 
 これにより、ウェブアプリやウェブサイトでリンク切れすることを簡単に防ぐことができます！  
