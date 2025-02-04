@@ -1,6 +1,6 @@
 # Introduction（あいさつ）
 
-Hello, my name is Kokomi. I'm a huge fan of HTML, CSS, and JavaScript (TypeScript), and I absolutely love the web.
+Hello, my name is Ryo Sano. I'm a huge fan of HTML, CSS, and JavaScript (TypeScript), and I absolutely love the web.
 
 While I can handle backend development, I have a strong preference for frontend development.
 
