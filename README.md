@@ -1,6 +1,6 @@
 ## あいさつ
 
-こんにちは、私は **Ryo** といいます。私は HTML, CSS, JavaScript（TypeScript）の大ファンであり、ウェブがとても好きです。
+こんにちは、私は **Ryo** といいます。私は HTML, CSS, JavaScript（TypeScript）の大ファンです。
 
 趣味は、ゆったりとしたジャズを聴きながら、古代ギリシアの哲学書を読むことです。
 
