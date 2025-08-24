@@ -50,7 +50,7 @@ JavaScript および TypeScript コミュニティを主に支援していて、
   
   簡単なAPIと、便利なオプションを提供しています。たった一つの関数で準備 OK！画像のパスでもサイトのリンクでもなんでも型安全にできます！
 
-### バックエンド
+### バックエンド：
 
 - [Kokomi shopping server](https://github.com/cat394/kokomi-shopping-server)
 
