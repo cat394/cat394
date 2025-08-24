@@ -28,7 +28,7 @@ JavaScript および TypeScript コミュニティを主に支援していて、
 
 **Lit** は私の最もお気に入りのライブラリであり、シンプルで強力な API が素晴らしいです。
 
-- **[Simplest](https://github.com/cat394/simplest)**
+- [Simplest](https://github.com/cat394/simplest)
 
   開発のきっかけとしては、マークダウンについて学習していた時に知った、 AST (Abstract Syntax Tree) という概念に興味を持ったことにありました。
   そこで私は独自の構文を AST に変換し CSS を生成できたら便利かもしれないなーと思い立って開発しました。
@@ -36,7 +36,7 @@ JavaScript および TypeScript コミュニティを主に支援していて、
   『スタイルを目的とした HTML 要素があるのだとしたら、どういった将来になっていたのだろう』を実現したものになります。Tailwind は `class` 属性で実現したものですが、これは HTML要素 で実現した、SVG のような発想になります。
   ただ私は結局のところ、CSS のセレクタの柔軟性に気づき、HTML と CSS は分離されているべきだという認識に至ったため、現在はパブリックアーカイブの状態にしました。
 
-- **[weather-widget](https://github.com/cat394/weather-widget)**
+- [weather-widget](https://github.com/cat394/weather-widget)
 
   一日の天気を表示するためのコンポーネントです。友人から「学校から郵便番号を使った API を作成する課題がある」という話を聞き、「そのバックエンドの実装に、フロントエンドとして、お天気ウィジェットがあれば面白そうだ」と言ったことがきっかけで作りました。
 
